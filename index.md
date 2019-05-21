@@ -34,6 +34,7 @@ Syntax highlighted code block
 [table_bin](./table.bin)
 [land_gl](./landscape.gltf)
 [land_bin](./landscape.bin)
+[survey_file](./survey.csv)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
